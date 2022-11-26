@@ -1,1 +1,1 @@
-# MyDjangoWebApp
+# MyWebApp
