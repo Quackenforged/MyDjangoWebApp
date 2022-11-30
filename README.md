@@ -4,9 +4,7 @@ App for creating a blog
 
 I chose this project in order to learn how to use javascript in a real world application
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7jVAxVJK3Cw)
 
 # Web Pages
 
@@ -27,7 +25,6 @@ I used Javascript and Node
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Fix the database
 * Fix the account creation
 * Finish with ironing out how the blog creation works
